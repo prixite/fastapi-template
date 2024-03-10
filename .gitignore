@@ -1,0 +1,9 @@
+*.swp
+.coverage
+htmlcov
+.DS_Store
+emails
+venv
+.env
+db.sqlite3
+__pycache__

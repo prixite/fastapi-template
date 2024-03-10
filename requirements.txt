@@ -1,7 +1,7 @@
+cryptography==42.0.5
+fastapi==0.110.0
 psycopg==3.1.18
 python-dotenv==1.0.1
-uvicorn==0.27.1
-SQLAlchemy==2.0.28
-fastapi==0.110.0
 python-jose==3.3.0
-cryptography==42.0.5
+SQLAlchemy==2.0.28
+uvicorn==0.27.1
